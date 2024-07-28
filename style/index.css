@@ -1,0 +1,12 @@
+#info {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#company-founders {
+    display: flex;
+    justify-content: end;
+}
+td {width: 150px;
+color:darkblue}
