@@ -4,6 +4,26 @@
     display: flex;
     justify-content: center;
 }
+.navbar-brand {
+    transition-property: background-color;
+    transition-duration: 1s;
+    transition-property: font-size;
+    transition-duration: 2s;
+}
+.navbar-brand:hover {
+    background-color: lightskyblue;
+    font-size: 150%;
+}
+li a {
+    transition-property: background-color;
+    transition-duration: 2s;
+    transition-property: font-size;
+    transition-duration: 2s;
+}
+li a:hover {
+    background-color: lightskyblue;
+    font-size: 150%;
+}
 
 #company-founders {
     display: flex;

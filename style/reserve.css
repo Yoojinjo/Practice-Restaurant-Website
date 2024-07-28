@@ -1,3 +1,8 @@
+body {text-align: center;
+    }
+.main {display: flex;
+    justify-content: center;}
+
 .navbar-brand {
     transition-property: background-color;
     transition-duration: 1s;
@@ -18,7 +23,18 @@ li a:hover {
     background-color: lightskyblue;
     font-size: 150%;
 }
+.reserve-container {
+    text-align: start;
+    background-color: pink;
+    margin: 10%;
+    padding: 5%;
+    min-width: 500px;
+    max-width: 600px;
+}
+.col-12 {
+    text-align: center;
+}
 #comment {
     height: 100px;
-    width: 300px;
+    width: 300px
 }
