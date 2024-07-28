@@ -1,12 +1,17 @@
 #info {
+    background-color: blanchedalmond;
     display: flex;
     justify-content: center;
-    
 }
 
 #company-founders {
     display: flex;
     justify-content: end;
 }
-td {width: 150px;
-color:darkblue}
+td {
+    width: 150px;
+    color: darkblue;
+}
+table {
+    background-color: peachpuff;
+}
